@@ -7,7 +7,7 @@ class CategoriesController < ApplicationController
     def create 
         category = Category.new(category_params)
         
-        if item.save 
+        if category.save 
             render json: CategorySerializer.new(category)
         else
             render json: {error: "Couldn't save"}
