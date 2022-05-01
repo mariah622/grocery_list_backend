@@ -19,6 +19,6 @@ Upon launching the application, you will be greeted by text boxes in which you c
 
 You can make an item by inputting a name, color, price and description. You must also give it a category. If the category is not listed, you can make the category and then create your item. If you do want your item(s) on the list anymore, you can simply delete them.
 
-## Usage:
+## License:
 The system is available as open source under the terms of the MIT License.
 
