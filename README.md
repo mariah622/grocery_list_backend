@@ -1,5 +1,5 @@
 # README
-#Grocery List Tracker
+## Grocery List Tracker:
 
 Welcome to the Grocery List Tracker!
 
